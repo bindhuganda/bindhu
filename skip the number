@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+int x,y,n,i;
+printf("enter the two numbers\n");
+scanf("&d",&x);
+scanf("%d",&y);
+scanf("%d",&n);
+for (i=x;i<=y;i++)
+{
+if (i-n!=x)
+printf("%d\n",i);
+}
+getch();
+}
