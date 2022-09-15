@@ -19,3 +19,12 @@ int main()
 	}
 	
 }
+
+    
+    
+    TEST CASE
+    enter the year=2002
+enter the date=12
+enter the month=4
+the date is not a leap year
+    
