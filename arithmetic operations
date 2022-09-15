@@ -35,3 +35,14 @@ int main(){
     printf("Modulus: %d\n", mod(num1, num2));
     return 0;
 }
+
+
+test case 1
+Enter the first number: 23
+Enter the second number: 45
+Arithmetic operations on 23 and 45:
+Addition: 68
+Subtraction: -22
+Multiplication: 1035
+Division: 0.511111
+Modulus: 0
