@@ -17,3 +17,14 @@ int main()
  printf("Invalid input");
  }
 }
+
+
+
+  TEST CASE 1
+   Enter your age : 15
+You are allowed to vote after 3 years
+
+
+   TEST CASE 2
+   Enter your age : 19
+Your eligible for vote
