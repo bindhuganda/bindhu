@@ -10,3 +10,14 @@ int main()
 	}
 	return 0;
 }
+
+
+
+  TEST CASE
+  Enter n and m value:16 6
+1 X 16 = 16
+2 X 16 = 32
+3 X 16 = 48
+4 X 16 = 64
+5 X 16 = 80
+6 X 16 = 96
